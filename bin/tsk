@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
 
 require 'tisikkirlir'
-puts ARGV.map do |a| a.to_s.tsk end
+arg = ARGV.map do |a| a.to_s.tsk end
+puts arg.join " "
