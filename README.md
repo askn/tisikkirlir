@@ -25,6 +25,7 @@ require 'tisikkirlir'
 
 "Bi Star ATsana Canısı".tsk
 # "Bi Stir İTsini Cinisi"
+```
 
 veya komut satırından
 
