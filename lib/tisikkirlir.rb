@@ -1,5 +1,7 @@
 require "tisikkirlir/version"
 
-module Tisikkirlir
-  # Your code goes here...
+class String
+  def tsk
+    self.gsub(/[aeoöuüıi]/, 'i').gsub(/[AEOÖUÜI]/, 'İ')
+  end
 end

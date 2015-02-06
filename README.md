@@ -1,30 +1,39 @@
 # Tisikkirlir
 
-TODO: Write a gem description
+![cat](https://dl.dropbox.com/s/x2otko6ropilnb0/Birikindi-sizin-i%C3%A7in-sivisiyim-kilisi.jpg)
 
-## Installation
+## Kurulum
 
-Add this line to your application's Gemfile:
+Gemfile'a ekleyerek
 
 ```ruby
 gem 'tisikkirlir'
 ```
 
-And then execute:
+Ekledikten sonra
 
-    $ bundle
+    bundle
 
-Or install it yourself as:
+veya
 
     $ gem install tisikkirlir
 
-## Usage
+## Kullanımı
 
-TODO: Write usage instructions here
+```ruby
+require 'tisikkirlir'
+
+"Bi Star ATsana Canısı".tsk
+# "Bi Stir İTsini Cinisi"
+
+veya komut satırından
+
+    $ tsk Bi Star ATsana Canısı
+    Bi Stir İTsini Cinisi
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/tisikkirlir/fork )
+1. Fork it ( https://github.com/askn/tisikkirlir/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
