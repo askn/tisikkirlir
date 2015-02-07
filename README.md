@@ -36,6 +36,7 @@ veya komut satırından
  * [Go](https://github.com/pasali/tisikkirlir)
  * [Php](https://github.com/smtaydemir/tisikkirlir)
  * [Nodejs](https://github.com/ayhankuru/tisikkirlir)
+ * [Python3](https://github.com/oguzhantasci/tisikkirlir)
 
 ## Contributing
 
