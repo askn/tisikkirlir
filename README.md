@@ -32,6 +32,11 @@ veya komut satırından
     $ tsk Bi Star ATsana Canısı
     Bi Stir İTsini Cinisi
 
+## İmplementasyonlar
+ * [Go](https://github.com/pasali/tisikkirlir)
+ * [Php](https://github.com/smtaydemir/tisikkirlir)
+ * [Nodejs](https://github.com/ayhankuru/tisikkirlir)
+
 ## Contributing
 
 1. Fork it ( https://github.com/askn/tisikkirlir/fork )
