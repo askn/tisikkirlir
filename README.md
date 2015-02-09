@@ -33,6 +33,8 @@ veya komut satırından
     Bi Stir İTsini Cinisi
 
 ## İmplementasyonlar
+ - C#
+  - [tisikkirlir](https://github.com/develomer/tisikkirlir)
  - Go
   - [tisikkirlir](https://github.com/pasali/tisikkirlir)
  - Node.js
