@@ -33,10 +33,15 @@ veya komut satırından
     Bi Stir İTsini Cinisi
 
 ## İmplementasyonlar
- * [Go](https://github.com/pasali/tisikkirlir)
- * [Php](https://github.com/smtaydemir/tisikkirlir)
- * [Nodejs](https://github.com/ayhankuru/tisikkirlir)
- * [Python3](https://github.com/oguzhantasci/tisikkirlir)
+ - Go
+  - [tisikkirlir](https://github.com/pasali/tisikkirlir)
+ - Node.js
+  - [tisikkirlir.js](https://github.com/gokaygurcan/tisikkirlir.js)
+  - [tisikkirlir](https://github.com/ayhankuru/tisikkirlir)
+ - Php
+  - [tisikkirlir](https://github.com/smtaydemir/tisikkirlir)
+ - Python3
+  - [tisikkirlir](https://github.com/oguzhantasci/tisikkirlir)
 
 ## Contributing
 
