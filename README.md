@@ -32,7 +32,8 @@ veya komut satırından
     $ tsk Bi Star ATsana Canısı
     Bi Stir İTsini Cinisi
 
-## İmplementasyonlar
+## Uyarlamalar
+
  - C#
   - [tisikkirlir](https://github.com/develomer/tisikkirlir)
  - Go
