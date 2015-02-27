@@ -45,6 +45,8 @@ veya komut satırından
   - [tisikkirlir](https://github.com/smtaydemir/tisikkirlir)
  - Python3
   - [tisikkirlir](https://github.com/oguzhantasci/tisikkirlir)
+ - Zephir (PHP Extension)
+  - [tisikkirlir](https://github.com/hdogan/tisikkirlir)
 
 ## Contributing
 
